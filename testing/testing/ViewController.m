@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"i am trying!!!");
+    NSLog(@"我修改了代码");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
